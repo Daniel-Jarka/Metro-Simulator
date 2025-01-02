@@ -1,0 +1,299 @@
+m m
+p 0 1
+m m
+p 1 0
+m m
+p 0 0
+m m
+p 1 1
+m m
+p 1 1
+m m
+p 1 1
+m m
+p 1 1
+m m
+p 1 1
+m m
+p 1 0
+m m
+p 1 0
+m m
+p 1 0
+m m
+p 1 0
+m m
+p 1 0
+m m
+p 1 0
+m m
+p 1 1
+m m
+p 1 1
+m m
+p 1 1
+m m
+p 1 1
+m m
+p 1 0
+m m
+p 1 1
+m m
+p 1 0
+m m
+p 0 1
+m m
+p 0 1
+m m
+p 0 1
+m m
+p 0 1
+m m
+p 0 1
+m m
+p 0 1
+m m
+p 0 1
+m m
+p 0 1
+m m
+p 0 0
+m m
+p 0 1
+m m
+p 0 0
+m m
+p 0 1
+m m
+p 0 1
+m m
+p 0 1
+m m
+p 0 0
+m m
+p 0 0
+m m
+p 0 0
+m m
+p 0 0
+m m
+p 0 0
+m m
+p 0 0
+m m
+p 1 1
+m m
+p 1 1
+m m
+p 1 1
+m m
+p 1 0
+m m
+p 1 0
+m m
+p 1 1
+m m
+p 1 1
+m m
+p 1 0
+m m
+p 1 1
+m m
+p 1 0
+m m
+p 1 1
+m m
+p 1 1
+m m
+p 1 1
+m m
+p 1 0
+m m
+p 1 0
+m m
+p 1 0
+m m
+p 1 0
+m m
+p 1 1
+m m
+p 1 0
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m f
